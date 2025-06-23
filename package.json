@@ -14,5 +14,11 @@
   "bugs": {
     "url": "https://github.com/Libya-Guide/GPay-Nodejs-SDK/issues"
   },
-  "homepage": "https://github.com/Libya-Guide/GPay-Nodejs-SDK#readme"
+  "homepage": "https://github.com/Libya-Guide/GPay-Nodejs-SDK#readme",
+  "files": [
+    "GpayApiClient.node.js",
+    "index.d.ts",
+    "README.md",
+    "LICENSE"
+  ]
 }

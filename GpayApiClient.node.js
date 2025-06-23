@@ -71,8 +71,7 @@ import crypto from 'crypto';
 
 const BaseUrl = Object.freeze({
     STAGING: 'https://gpay-staging.libyaguide.net/banking/api/onlinewallet/v1',
-    PRODUCTION: 'https://gpay.ly/banking/api/onlinewallet/v1',
-    DEV: "http://localhost:8080/banking/api/onlinewallet/v1"
+    PRODUCTION: 'https://gpay.ly/banking/api/onlinewallet/v1'
 });
 
 class GPayApiClient {
