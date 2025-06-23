@@ -1,0 +1,18 @@
+{
+  "name": "gpay-nodejs-sdk",
+  "version": "1.0.0",
+  "description": "Node.js SDK for GPay API Client.",
+  "main": "GpayApiClient.node.js",
+  "types": "index.d.ts",
+  "keywords": ["gpay", "libya guide gpay", "sdk", "api", "payments"],
+  "author": "Libya Guide for Information Technology and Training",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Libya-Guide/GPay-Nodejs-SDK.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Libya-Guide/GPay-Nodejs-SDK/issues"
+  },
+  "homepage": "https://github.com/Libya-Guide/GPay-Nodejs-SDK#readme"
+}
